@@ -147,3 +147,7 @@ Ara haurem de posar les dades de l'usuari
 Ara haurem d'afegir més parametres
 
 ![image](https://user-images.githubusercontent.com/104194787/205090807-7829cfa9-18b3-49cb-8254-b23745a5ed5d.png)
+
+Ja estarem dins del moodle
+
+![image](https://user-images.githubusercontent.com/104194787/205091201-0a3b72fe-563d-4347-affc-45d4e03a979d.png)
