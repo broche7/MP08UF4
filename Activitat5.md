@@ -120,4 +120,7 @@ Seguidament sel·leccionarem el controlador de base de dades de MariaDB
 
 ![image](https://user-images.githubusercontent.com/104194787/205079214-adad6265-6b8e-485a-8010-74e26cbb7507.png)
 
-Ara li haurem d'
+Ara li haurem d''afegir un usuari i la contrasenya de la base de dades
+
+![image](https://user-images.githubusercontent.com/104194787/205080335-d75e91d9-e603-4727-a6e3-0e6cbb37b1a1.png)
+
