@@ -84,3 +84,39 @@ Seguidament entrarem al buscador i posarem (la nostra ip)/moodle
 
 ![image](https://user-images.githubusercontent.com/104194787/204021266-7f9c42f6-9c41-4564-ad4a-031758dd3fc6.png)
 
+Llavors escollirem l'idioma català
+
+![image](https://user-images.githubusercontent.com/104194787/205074962-5825650b-5c12-4b1d-ac65-7c9412bad06b.png)
+
+Ens sortiran dos errors d'extensions per al PHP
+
+![image](https://user-images.githubusercontent.com/104194787/205075294-f44832bb-9361-4386-8031-e962a52630a8.png)
+
+Per a solucionar els errors haurem d'entrar al directori /var/www/html/moodle i posar la següent comanda:
+
+![image](https://user-images.githubusercontent.com/104194787/205076133-7758d204-4981-4cd6-ab83-151b6b9606f0.png)
+
+A continuació haurem d'entrar al directori /var/www/html/moodle i instal·larem el php7.3
+
+![image](https://user-images.githubusercontent.com/104194787/205077470-ac6fbed8-cbf8-4da3-b299-a1e68789c5cd.png)
+
+Ara farem el mateix que hem fet al curl
+
+![image](https://user-images.githubusercontent.com/104194787/205077709-7f717a13-8b0d-4d68-be1a-f90f140ed5ad.png)
+
+Una vegada fet instal·larem el php7.3 dins del directori /var/www/html/moodle
+
+![image](https://user-images.githubusercontent.com/104194787/205078042-827df7de-6ecb-430b-9813-35c9225e9b30.png)
+
+Ara reiniciarem el servidor apache2
+
+![image](https://user-images.githubusercontent.com/104194787/205078299-b0a4afca-58d0-4ae2-b421-041dea4b6f11.png)
+
+Un cop fet ja haurem entrat i ens demanara que li possesim el directori de dades amb el meu cas l'ubicare dins de home/moodledata
+
+![image](https://user-images.githubusercontent.com/104194787/205079024-75c30000-0743-4fd3-9144-e1517c64a41b.png)
+
+Seguidament sel·leccionarem el controlador de base de dades de MariaDB
+
+![image](https://user-images.githubusercontent.com/104194787/205079214-adad6265-6b8e-485a-8010-74e26cbb7507.png)
+
