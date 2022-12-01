@@ -24,9 +24,7 @@ Comprovem que podem entrar a mariadb
 
 Seguidament inst·lalarem el php7.3
 
-![image](https://user-images.githubusercontent.com/104194787/204018246-de9728ee-07d8-4fed-9d9a-93c347c49cda.png)
-
-![image](https://user-images.githubusercontent.com/104194787/204019427-4269c1b4-e237-4e1a-b653-1b36c143ba54.png)
+![image](https://user-images.githubusercontent.com/104194787/205083138-878c8e75-dfb8-40bf-998b-ffbd38767731.png)
 
 Llavors un cop instal·lat editarem el fitxer per a que es mostre index.php a canvi de index.html.
 
@@ -123,4 +121,20 @@ Seguidament sel·leccionarem el controlador de base de dades de MariaDB
 Ara li haurem d''afegir un usuari i la contrasenya de la base de dades
 
 ![image](https://user-images.githubusercontent.com/104194787/205080335-d75e91d9-e603-4727-a6e3-0e6cbb37b1a1.png)
+
+Seguidament instal·larem l'extensió xml del php7.3
+
+![image](https://user-images.githubusercontent.com/104194787/205085741-a2ef424a-0537-4bf7-af7d-4d54db25a59f.png)
+
+Reiniciarem el servidor i ja estara llest
+
+![image](https://user-images.githubusercontent.com/104194787/205085926-81d2e805-864a-433b-b78b-5ef435377b42.png)
+
+Seguidament haurem d'instal·lar mòdouls php
+
+![image](https://user-images.githubusercontent.com/104194787/205086627-db7be31f-8d9f-4fb1-8242-a7b2fc147661.png)
+
+I com podem veure un cop instal·lats tots els mòduls ens sortira tot correcte
+
+![image](https://user-images.githubusercontent.com/104194787/205086917-fae580cb-7694-4709-9e6d-e79d6192e163.png)
 
