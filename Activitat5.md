@@ -120,3 +120,4 @@ Seguidament sel·leccionarem el controlador de base de dades de MariaDB
 
 ![image](https://user-images.githubusercontent.com/104194787/205079214-adad6265-6b8e-485a-8010-74e26cbb7507.png)
 
+Ara li haurem d'
