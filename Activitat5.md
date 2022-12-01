@@ -138,3 +138,12 @@ I com podem veure un cop instal·lats tots els mòduls ens sortira tot correcte
 
 ![image](https://user-images.githubusercontent.com/104194787/205086917-fae580cb-7694-4709-9e6d-e79d6192e163.png)
 
+Ara haurem de posar les dades de l'usuari
+
+![image](https://user-images.githubusercontent.com/104194787/205089434-5289e9ea-e7da-4a64-a5c2-9a69a580bb9c.png)
+
+![image](https://user-images.githubusercontent.com/104194787/205089898-4e488d14-1a29-4d7e-99ec-40618b2f98cf.png)
+
+Ara haurem d'afegir més parametres
+
+![image](https://user-images.githubusercontent.com/104194787/205090807-7829cfa9-18b3-49cb-8254-b23745a5ed5d.png)
