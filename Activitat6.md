@@ -46,6 +46,10 @@ Per fer-ho simplement hem de fer clic a la rodeta de paràmetres de les categor�
 
 ![image](https://user-images.githubusercontent.com/104194787/208118887-d27a6735-b2eb-43da-9777-05f1b054e93d.png)
 
-I un cop acabades de crear totes les categories haurem d'anar a la pàgina principal per a veure que ens queda com ens hauria de quedar
+Desprès el que haurem de fer serà crear els mòduls dels cursos per fer-ho haurem de clicar a la categoria d'algun curs amb el meu cas de 2n curs al grup B i baix de tot ens sortirà "afegir cursos" i afegirem els mòduls del curs corresponents i així amb tots els cursos:
+
+![image](https://user-images.githubusercontent.com/104194787/208120066-1268e345-9348-48b2-93b0-7b6b1cf75f78.png)
+
+I un cop acabades de crear totes les categories i cursos haurem d'anar a la pàgina principal per a veure que ens queda com ens hauria de quedar
 
 ![image](https://user-images.githubusercontent.com/104194787/207904097-abac1850-73a0-4578-97b3-c70673c0ce73.png)
