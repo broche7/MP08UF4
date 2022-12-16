@@ -46,5 +46,6 @@ Per fer-ho simplement hem de fer clic a la rodeta de paràmetres de les categor�
 
 ![image](https://user-images.githubusercontent.com/104194787/208118887-d27a6735-b2eb-43da-9777-05f1b054e93d.png)
 
+I un cop acabades de crear totes les categories haurem d'anar a la pàgina principal per a veure que ens queda com ens hauria de quedar
 
 ![image](https://user-images.githubusercontent.com/104194787/207904097-abac1850-73a0-4578-97b3-c70673c0ce73.png)
