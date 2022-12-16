@@ -34,5 +34,17 @@ Seguidament entrarem a l'opció de "Gestiona cursos i categories"
 
 ![image](https://user-images.githubusercontent.com/104194787/207905079-d499d217-50f7-4ee2-a179-875dff5704aa.png)
 
+I seguidament haurem de començar a crear les categories
+
+![image](https://user-images.githubusercontent.com/104194787/208118452-4ff902d3-e5b6-47e9-a49b-2af10467db5f.png)
+
+Llavors dins de cada categoria haurem de fer subcategoríes com es pot veure a continuació
+
+![image](https://user-images.githubusercontent.com/104194787/208118738-ce958a94-b31c-4fd0-85d1-0f953c894c2a.png)
+
+Per fer-ho simplement hem de fer clic a la rodeta de paràmetres de les categoríes que vulguèssim fer les subcategories
+
+![image](https://user-images.githubusercontent.com/104194787/208118887-d27a6735-b2eb-43da-9777-05f1b054e93d.png)
+
 
 ![image](https://user-images.githubusercontent.com/104194787/207904097-abac1850-73a0-4578-97b3-c70673c0ce73.png)
