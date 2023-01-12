@@ -3,9 +3,27 @@
 ![image](https://user-images.githubusercontent.com/110727546/207070729-91000a9b-782a-43ed-8f50-344d9db3ad3f.png)
 
 - Entra a un usuari de Moodle i personalitza el seu perfil amb una imatge.
+
+![image](https://user-images.githubusercontent.com/104194787/212111165-c77a1c8a-4782-40bd-ba56-69e9426fe292.png)
+
 - Canvia la seva contrasenya.
+
+![image](https://user-images.githubusercontent.com/104194787/212111597-1314ba67-d23e-4522-a164-35fcd18e3930.png)
+
+![image](https://user-images.githubusercontent.com/104194787/212111684-64ead846-6727-4214-8bd2-db0280acda4c.png)
+
+![image](https://user-images.githubusercontent.com/104194787/212111874-59bc0592-fc57-4d3d-abed-f87dd86326f8.png)
+
 - Canvia el seu idioma preferit a anglès.
+
+![image](https://user-images.githubusercontent.com/104194787/212112285-4a6c05a4-eeb1-4147-96f7-e18ba6cc174a.png)
+
+![image](https://user-images.githubusercontent.com/104194787/212112353-7ab0b11b-1162-4fe5-86b7-8375c7bfa781.png)
+
 - Oculta el seu mail a usuaris sense permisos.
+
+
+
 - Canvia el primer dia de la setmana del calendari a Diumenge.
 - Fes que només els contactes de l'usuari puguin enviar-li missatges.
 
