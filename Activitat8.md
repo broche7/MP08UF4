@@ -22,19 +22,44 @@
 
 - Oculta el seu mail a usuaris sense permisos.
 
-
+![image](https://user-images.githubusercontent.com/104194787/213483795-5ff4a782-fc32-4a39-981d-9b7efadb54ae.png)
 
 - Canvia el primer dia de la setmana del calendari a Diumenge.
+
+![image](https://user-images.githubusercontent.com/104194787/213484021-a669d637-a630-468e-9825-9007fbdd984a.png)
+
 - Fes que només els contactes de l'usuari puguin enviar-li missatges.
+
+![image](https://user-images.githubusercontent.com/104194787/213484144-1b35bab2-a724-47c5-92bb-c50029ec52aa.png)
 
 # Cursos:
 
 - Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+
+![image](https://user-images.githubusercontent.com/104194787/213484626-e34eeecd-bc42-4f01-b626-07733e4ac754.png)
+
 - Inscriu a tots els alumnes al curs.
+
+![image](https://user-images.githubusercontent.com/104194787/213484785-8837e4e8-ac2a-42e4-9090-abde2114027d.png)
+
 - Inscriu a tots els professors al curs.
+
+![image](https://user-images.githubusercontent.com/104194787/213484902-6f137f58-b059-4c27-975a-a4789336a747.png)
+
 - Crea un fòrum general de dubtes (el d'anuncis no serveix).
+
+![image](https://user-images.githubusercontent.com/104194787/213486415-ea752b7d-6a4a-410c-8935-7bcce0daaf72.png)
+
 - Fes que dos estudiants fassin consultes al fòrum.
+
+![image](https://user-images.githubusercontent.com/104194787/213487198-b1f0e21c-54f9-40c4-93a0-1e5bb29911c6.png)
+
 - Contesta les preguntes amb un perfil de professor.
+
+![image](https://user-images.githubusercontent.com/104194787/213488182-d59dc2e6-02a3-4733-8b05-ab3758594386.png)
+
+
+
 - Crea un tema anomenat "Fonaments de Python".
 - Oculta la resta de temes del curs.
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
