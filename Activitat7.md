@@ -29,6 +29,9 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
   - Un Professor anomenat Cognom_2_profe.
   - Un professor No editor anomenat Cognom_3_profe.
   
+  ![image](https://user-images.githubusercontent.com/104194787/213478043-ff0854de-7906-43a8-bf76-9e8bb6f49c49.png)
+
+  
 4.  Crea un alumne anomenat Cognom_1_alumne.
 
 5.  Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
@@ -38,11 +41,19 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
 
+![image](https://user-images.githubusercontent.com/104194787/213479304-e527fc72-de4f-46da-86df-d9d8d307379f.png)
+
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+
+![image](https://user-images.githubusercontent.com/104194787/213479606-86deef69-aa2d-4541-a8b7-292b8d773a90.png)
 
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
 
+![image](https://user-images.githubusercontent.com/104194787/213480266-4dad473d-f4df-44b1-9a36-37efc075efe8.png)
+
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
+
+![image](https://user-images.githubusercontent.com/104194787/213481193-8287f078-9fe8-487a-baa0-e58c5a2d99ae.png)
 
 10. Mostra l'apartat Participants de cada curs.
 
