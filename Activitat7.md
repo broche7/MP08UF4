@@ -57,6 +57,20 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 10. Mostra l'apartat Participants de cada curs.
 
+![image](https://user-images.githubusercontent.com/104194787/213481870-ebafcd6b-060c-4064-9155-46c751363d93.png)
+
+![image](https://user-images.githubusercontent.com/104194787/213481967-b067aedd-7689-4da8-a414-0c59536fd799.png)
+
+![image](https://user-images.githubusercontent.com/104194787/213482043-8bacf771-93d6-487f-b9ae-6de8f2b50e40.png)
+
+![image](https://user-images.githubusercontent.com/104194787/213482127-c30d5769-b547-466c-ad40-94df4a18a0f6.png)
+
+![image](https://user-images.githubusercontent.com/104194787/213482492-a2b1eeb4-d449-4f39-866e-35b5fac61f9e.png)
+
+![image](https://user-images.githubusercontent.com/104194787/213482568-230313d2-1ccd-4f28-a213-7ff7d51c8a57.png)
+
+![image](https://user-images.githubusercontent.com/104194787/213482657-a706fe57-ec02-4198-8e0a-1ca403778f6f.png)
+
 11. Què són les Cohorts? 
 
 Les cohorts són grups de tot el lloc o de la categoria del curs.
