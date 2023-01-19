@@ -9,7 +9,7 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 1. Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
 
 - Administrador/Gestor.
-- Professor amb permís dedició.
+- Professor amb permís d'edició.
 - Professor tutor.
 - Estudiant.
 
@@ -47,10 +47,18 @@ Dins de Moodle hi ha diferents tipus d'usuaris:
 
 11. Què són les Cohorts? 
 
+Les cohorts són grups de tot el lloc o de la categoria del curs.
+
 12. Perquè serveixen?
+
+Per permetre que tots els membres de la cohort es puguin inscriure facilment en un curs.
 
 13. Què són els grups?
 
+Aquesta opció de Moodle permet al professor crear i gestionar “aules virtuals” dins de l'espai d'un curs. Podrà organitzar els estudiants en diversos grups per treballar d'aquesta manera durant un període de temps determinat
+
 14. Perquè serveixen?
+
+Per crear i gestionar aules virtuals dins de l'espai d'un curs
 
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
