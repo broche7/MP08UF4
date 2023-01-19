@@ -88,3 +88,6 @@ Aquesta opció de Moodle permet al professor crear i gestionar “aules virtuals
 Per crear i gestionar aules virtuals dins de l'espai d'un curs
 
 15. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+![image](https://user-images.githubusercontent.com/104194787/213482981-781f90e2-b8b2-437f-b0a2-a1d2de43aa59.png)
+
