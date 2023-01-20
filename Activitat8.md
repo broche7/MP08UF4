@@ -108,6 +108,8 @@
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
 
+![image](https://user-images.githubusercontent.com/104194787/213751959-b87c9207-8d70-46e8-829b-c5dd056da831.png)
+
 # Plugins:
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
@@ -119,7 +121,10 @@
 Canvia el tauler d'usuaris.
 
 - Afegeix a dalt de tot "Cursos visitats recentment".
+
 - Afegeix a baix de tot "Usuaris en línia".
+
+![image](https://user-images.githubusercontent.com/104194787/213753866-dc9e8bc5-44c3-4dc4-aa35-adc3856e39e6.png)
 
 # Canvia el tema del Moodle:
 
