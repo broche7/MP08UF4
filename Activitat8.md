@@ -83,8 +83,16 @@
 ![image](https://user-images.githubusercontent.com/104194787/213747632-cc3bc179-78a9-4c02-bd1b-2f7e538e298f.png)
 
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
+![image](https://user-images.githubusercontent.com/104194787/213750579-349a7518-2cb9-45ba-8634-8c5922043d37.png)
+
 - Com a alumne/a contesta la consulta.
+
+![image](https://user-images.githubusercontent.com/104194787/213750754-1b27b049-8641-4399-8dcb-a34b63bf9e69.png)
+
 - Com a professor mostra les contestacions de la consulta.
+
+![image](https://user-images.githubusercontent.com/104194787/213750938-14d0682e-4d23-41bb-b969-0a2237f4cb79.png)
 
 # Seguretat del lloc:
 
