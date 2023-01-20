@@ -122,6 +122,8 @@ Canvia el tauler d'usuaris.
 
 - Afegeix a dalt de tot "Cursos visitats recentment".
 
+![image](https://user-images.githubusercontent.com/104194787/213754091-78da494e-7446-408d-800f-9a35cf5a30da.png)
+
 - Afegeix a baix de tot "Usuaris en línia".
 
 ![image](https://user-images.githubusercontent.com/104194787/213753866-dc9e8bc5-44c3-4dc4-aa35-adc3856e39e6.png)
